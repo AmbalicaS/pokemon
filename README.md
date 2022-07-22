@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+###  PokmonSearch Folder 
+Contains Components for filter/Search Pokemon
+
+### Pokemon grid 
+Contains components to fetch all pokemons in Grid view also have sorting when click on header (Name,HP,Attack,Defense)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
